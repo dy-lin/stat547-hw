@@ -1,0 +1,9 @@
+{
+  "name": "Assignment 6 - Boston Crime Dashboard",
+  "description": "Debugging and Deploying the Boston Crime Dashboard for Assignment 6",
+  "keywords": [
+    "heroku",
+    "R deployment",
+    "Dash R"
+],
+}
